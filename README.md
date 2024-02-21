@@ -12,7 +12,6 @@ Please provide a screenshot of the `forge test -vvv` command running in your loc
 
 ## Contract Address
 Please provide the contract address that you deployed on the Sepolia network.
-0x02Ff91283a7Ce657f65Ae05d4B09545cbB51cC64
 ![Screenshot1](./hw0/screenshots/screenshot_1)
 
 ## Sepolia Etherscan
